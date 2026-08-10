@@ -142,6 +142,8 @@ Potential improvements for a future version include:
 
 This project is part of my ongoing Python programming practice, where each project gradually introduces new programming concepts and more structured software design.
 
-#Author
+--
 
-Mahsa Rousta
+##Author
+
+**Mahsa Rousta**
